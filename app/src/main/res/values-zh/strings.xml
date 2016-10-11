@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="item1" >菜单一</string>
+    <string name="item2" >菜单二</string>
+    <string name="item3" >菜单三</string>
+    <string name="about" >关于</string>
+    <string name="exit" >退出</string>
+
+</resources>
